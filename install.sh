@@ -24,6 +24,6 @@ yay -S whatweb
 yay -S telnet
 yay -S brave-bin
 # appending rules to .bashrc
-echo "neofetch" > ~/.bashrc
-echo "figlet V3N0M0U5" > ~/.bashrc
-echo "echo "My sting is far worse than you can imagine."" > ~/.bashrc
+echo "neofetch" >> ~/.bashrc
+echo "figlet V3N0M0U5" >> ~/.bashrc
+echo "echo "My sting is far worse than you can imagine."" >> ~/.bashrc
