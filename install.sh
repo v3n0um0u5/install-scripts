@@ -9,12 +9,12 @@ makepkg -si
 cd
 
 # actual install files:
-sudo pacman -S ruby python gcc make git perl curl rustup go
+sudo pacman -S ruby python gcc make ufw perl curl rustup go
 sudo pacman -S nmap netcat wireshark-qt aircrack-ng
 sudo pacman -S figlet neofetch metasploit
 sudo pacman -S smb aws-cli mariadb
 sudo pacman -S snort python python-pip
-sudo pacman -S smbclient proxychains john ufw
+sudo pacman -S smbclient proxychains john
 # AUR files
 yay -S dirb
 yay -S snort
