@@ -16,6 +16,7 @@ sudo pacman -S smb aws-cli mariadb
 sudo pacman -S snort python python-pip
 sudo pacman -S smbclient proxychains john
 # AUR files
+yay -S protondb
 yay -S dirb
 yay -S snort
 yay -S pulledpork
